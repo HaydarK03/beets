@@ -19,17 +19,43 @@ format:
         sku:
         tags: 
         keyword:
-        price: 
-        promo:
-            persent:
-            price:
-            duration:
+        pricing:
+            price: 
+            promo:
+                persent:
+                price:
+                duration:
+            payment:
+                down_payment:
+                full_payment:
+            tax: false
         type:
         sold:
         scope: 
+            include:
+            exclude:
+        team:
+            -   name:
+                resolve:
+                status:
+            -   name:
+                resolve:
+                status:
+            -   name:
+                resolve:
+                status:                
         terms:
-        condition: 
-        prosedur: [ ]
+            - ""
+            - ""
+            - ""
+        condition:
+            - ""
+            - ""
+            - "" 
+        prosedur: 
+            - "1"
+            - "2"
+            - "3"
         schedule: 
             open:
             close:
