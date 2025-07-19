@@ -11,7 +11,7 @@ params:
     groups:
     strain:
     keyword:
-    sales:
+    promo:
 format:
     cover:
     anima:
@@ -23,7 +23,7 @@ format:
         vendor:
         price:
         sells:
-            sales:
+            promo:
             stock:
             solds:
             minpur:
