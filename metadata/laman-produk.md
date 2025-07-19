@@ -1,13 +1,53 @@
 ---
+title:
+thumd:
+descr:
+ships:
+    estimate:
+    schedule:
+    shipping:
+sells:
+    price:
+    sales:
+    stock:
+    solds:
+    minpur:
+    maxpur:
+specs:
+    brand:
+    weight:
+    condition:
+    release:
+    dimension:
+    type:
+    series:
+    detail:
+        laptop:
+            processor:
+            memory:
+            graphic:
+            drive:
+            display:
+            ports:
+            system:
+            color:
+        ram:
+        drive:
+        screen:
+        keyboard:
+guaranty:
+    period:
+    type:
+---
+
+
+
 image: 
 tittle: 
 price: 
 discount price: 
 description: 
-panduan: 
-jadwal toko: 
 jadwal pengiriman: 
-pengembalian: 
 model/jenis: 
 dikirim dari: 
 estimasi: 
@@ -24,16 +64,3 @@ kondisi:
 masa garansi: 
 jenis garansi: 
 tahun rilis:
----
-# Produk
-
-## deskripsi
-
-## informasi produk
-
-## gambar
-
-
-
-
-
