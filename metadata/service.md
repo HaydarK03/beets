@@ -8,7 +8,6 @@ models:
     parted:
     layout:
     groups:
-    strain:
     keyword:
 format:
     cover:
