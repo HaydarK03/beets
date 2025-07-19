@@ -16,18 +16,16 @@ format:
     theme:
     datum:
         sku:
-        tags: 
+        tags:
+        desc:
         keyword:
         pricing:
-            price: 
-            promo:
-                persent:
-                price:
-                duration:
-            payment:
-                down_payment:
-                full_payment:
-            tax: false
+            - price:
+              duration:
+        promo:
+            persent:
+            price:
+            duration:
         type:
         sold:
         scope: 
@@ -61,6 +59,6 @@ format:
         estimasi:
         guaranty:
 meta:
-    title:
+    author:
     description:
 ---
