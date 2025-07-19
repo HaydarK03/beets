@@ -1,7 +1,9 @@
 ---
+
+
 title:
 thumd:
-descr:
+desc:
 ships:
     estimate:
     schedule:
@@ -20,15 +22,43 @@ specs:
     release:
     dimension:
     type:
-    series:
     detail:
-        processor:
-        memory:
-        graphic:
+        device:
+            processor:
+            memory:
+            series:
+            graphic:
+            drive:
+            display:
+            ports:
+            system:
+            color:
+        ram:
+            type:
+            capacity:
+            speed:
+            series:
+            chipset:
         drive:
-        display:
-        ports:
-        system:
+            capacity:
+            speed:
+            protocol:
+            type:
+            model:
+            series:
+            width:
+        screen:
+            width:
+            relosultion:
+            rate:
+            type:
+            panel:
+        keyboard:
+            profile:
+            compatible:
+            switch:
+            type:
+            layout:
 guaranty:
     period:
     type:
@@ -57,4 +87,4 @@ berat:
 kondisi: 
 masa garansi: 
 jenis garansi: 
-tahun rilis:
+tahun rilis:+

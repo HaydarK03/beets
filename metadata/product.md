@@ -1,0 +1,44 @@
+---
+date:
+title:
+draft:
+terms:
+weight:
+params:
+    period:
+    parted:
+    layout:
+    groups:
+    strain:
+    keyword:
+    sales:
+format:
+    cover:
+    anima:
+    model:
+    theme:
+    datum:
+        sku:
+        quantity:
+        vendor:
+        price:
+        sells:
+            sales:
+            stock:
+            solds:
+            minpur:
+            maxpur:
+        specs:
+            weight:
+            condition:
+            release:
+            dimension:
+            type:
+        guaranty:
+            period:
+            type:
+        shipping:
+            from:
+            cost:
+            estimate:
+---
