@@ -22,19 +22,13 @@ specs:
     type:
     series:
     detail:
-        laptop:
-            processor:
-            memory:
-            graphic:
-            drive:
-            display:
-            ports:
-            system:
-            color:
-        ram:
+        processor:
+        memory:
+        graphic:
         drive:
-        screen:
-        keyboard:
+        display:
+        ports:
+        system:
 guaranty:
     period:
     type:
