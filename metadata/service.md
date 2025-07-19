@@ -1,0 +1,41 @@
+---
+date:
+title:
+draft:
+terms:
+weight:
+models:
+    parted:
+    layout:
+    groups:
+    strain:
+    keyword:
+format:
+    cover:
+    anima:
+    model:
+    theme:
+    datum:
+        sku:
+        tags: 
+        keyword:
+        price: 
+        promo:
+            persent:
+            price:
+            duration:
+        type:
+        sold:
+        scope: 
+        terms:
+        condition: 
+        prosedur: [ ]
+        schedule: 
+            open:
+            close:
+        estimasi:
+        guaranty:
+meta:
+    title:
+    description:
+---
