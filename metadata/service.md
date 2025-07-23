@@ -15,50 +15,51 @@ format:
     model:
     theme:
     datum:
-        sku:
-        tags:
-        desc:
-        keyword:
-        pricing:
+        - sku:
+        - tags:
+        - desc:
+        - keyword:
+        - pricing:
             - price:
               duration:
-        promo:
+        - promo:
             persent:
             price:
             duration:
-        type:
-        sold:
-        scope: 
+        - type:
+        - sold:
+        - scope: 
             include:
             exclude:
-        team:
+        - team:
             -   name:
                 resolve:
                 status:
-            -   name:
-                resolve:
-                status:
-            -   name:
-                resolve:
-                status:                
-        terms:
-            - ""
-            - ""
-            - ""
-        condition:
-            - ""
-            - ""
-            - "" 
-        prosedur: 
+                compliance:
+                    - iso: 
+                    - license:
+                    - verified:         
+        - termcon:
             - "1"
             - "2"
             - "3"
-        schedule: 
+        - prosedur: 
+            - "1"
+            - "2"
+            - "3"
+        - schedule: 
             open:
             close:
-        estimasi:
-        guaranty:
+        - guaranty:
+        - location:
+            address:
+            city:
 meta:
     author:
     description:
+    # opengraph
+    ogsite:
+    ogurl:
+    ogtype:
+    ogimage:
 ---
